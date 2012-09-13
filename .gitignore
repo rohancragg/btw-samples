@@ -5,3 +5,5 @@ _Resharper*
 *.build.csdef
 *.suo
 csx
+.ncrunchproject
+.ncrunchsolution
